@@ -1,4 +1,4 @@
-# Statistical Pattern Recognition excercies 
+# Statistical Pattern Recognition exercises 
 
 This code repository will contain templates and solutions for the Statistical Pattern recognition Course.
 For detailed instructions please check the [course material](https://lmb.informatik.uni-freiburg.de/lectures/spr/). 
