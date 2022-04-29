@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+matplotlib
+scikit-learn
+libsvm-official
+pillow
